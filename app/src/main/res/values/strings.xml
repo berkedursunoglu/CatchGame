@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CatchGame</string>
+    <string name="ba_la">Başla</string>
+    <string name="balon_yakalama_oyununa_ho_geldiniz_ba_lamak_i_in_butona_bas_n_z">Balon Yakalama oyununa hoşgeldiniz başlamak için butona basınız.</string>
+</resources>
