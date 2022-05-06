@@ -15,6 +15,7 @@
         android:layout_marginTop="16dp"
         android:gravity="start"
         android:text="Skor: 10"
+        android:textColor="@color/primaryTextColor"
         android:textSize="24sp"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
@@ -29,6 +30,7 @@
         android:gravity="center"
         android:text="Kalan Zaman: 15"
         android:textSize="24sp"
+        android:textColor="@color/primaryTextColor"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />

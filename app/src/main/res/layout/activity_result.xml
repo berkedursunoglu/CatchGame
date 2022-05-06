@@ -16,6 +16,7 @@
         android:layout_marginBottom="41dp"
         android:gravity="center"
         android:text="Skorunuz: 25"
+        android:textColor="@color/primaryTextColor"
         android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/restartGame"
@@ -26,6 +27,7 @@
     <TextView
         android:id="@+id/topScoreText"
         android:layout_width="217dp"
+        android:textColor="@color/primaryTextColor"
         android:layout_height="0dp"
         android:layout_marginTop="232dp"
         android:layout_marginBottom="25dp"
